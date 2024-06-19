@@ -1,7 +1,14 @@
 let num = 1001;
 
 //Returns 'undefined'.
-console.log(num.length);
+
+if (String(num).includes('.')){
+    console.log(String(num).length-1);
+} else {
+    console.log(String(num).length-1);
+    }
+
+
 
 //Use type conversion to print the length (number of digits) of an integer.
 
