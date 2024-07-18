@@ -10,7 +10,6 @@
 // Code your oxygenExpended function here:
 
 
-// Candidate data & crew array.
 let candidateA = {
    'name':'Gordon Shumway',
    'species':'alf',
