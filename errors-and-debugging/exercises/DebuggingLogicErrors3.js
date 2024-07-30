@@ -17,6 +17,7 @@ let computerStatus = 'green';
 //    console.log('WARNING: Insufficient fuel!');
 //    launchReady = false;
 // }
+console.log(launchReady);
 
 if (crewStatus && computerStatus === 'green'){
    console.log('Crew & computer cleared.');
@@ -32,3 +33,4 @@ if (crewStatus && computerStatus === 'green'){
 // } else {
 //    console.log('Launch scrubbed.');
 // }
+console.log(launchReady);
