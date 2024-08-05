@@ -1,1 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+*.tgz
+*.gz
+
+# System files
 .DS_Store
+Thumbs.db
+
